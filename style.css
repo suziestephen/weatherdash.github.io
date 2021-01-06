@@ -1,0 +1,42 @@
+
+
+.jumbotron{
+    background: rgb(3, 24, 71);
+    color: white;
+    padding: 0;
+}
+.display-3{
+    text-align: center;
+}
+
+.form-group{
+    background: rgb(112, 152, 238)
+    
+}
+
+.today-weather{
+    background: rgb(37, 81, 175);
+}
+
+.buttons-view{
+    position: center;
+    left: 20px;
+    top: 140px;
+    width: 150px;
+    border-style: solid;
+    border-width: 1px;
+
+}
+
+.cityWeather{
+    flex-flow: column;
+    float: right;
+    right: 150px;
+    padding: 5px;
+    border-style: solid;
+    border-width: 1px;
+}
+#run-search,
+#clear-search{
+    margin-top: 15px;
+}
