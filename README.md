@@ -1,11 +1,15 @@
 # weatherdash.github.io
 
-The link to the webpage is: <a href="https://suziestephen.github.io/workdayplanner.github.io/"> Day Planner </a>
+The link to the webpage is: <a href="https://suziestephen.github.io/weatherdash.github.io/"> Weather Dashboard </a>
 
-Functionality: See a screenshot below of how the dashboard works
+Functionality: 
+See a screenshot below of how the dashboard works
 ![SAMPLE](https://user-images.githubusercontent.com/74234842/104577984-3ba68880-56ae-11eb-8802-915e1beeab62.png)
 
-
+Issues:
+I could not get the following instructions to work 
+1. THEN I am presented with a color that indicates whether the conditions are favorable, moderate, or severe
+2. Layout - I struggled to get everything to match the layout given in the Homework sample but came close
 
 User Story
 AS A traveler
